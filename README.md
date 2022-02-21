@@ -9,3 +9,6 @@ This includes information about our club!
 - We shall arrange different events and workshops for our hackers.
 - We shall introduce them to open source community.
 - We shall provide them learning resources that we have collected at our own.
+# Hack Club MUET SZAB Core Team
+- We are excited to show our talented team members.
+- Our team is ready to collaborate in every activity.
