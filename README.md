@@ -12,3 +12,4 @@ This includes information about our club!
 # Hack Club MUET SZAB Core Team
 - We are excited to show our talented team members.
 - Our team is ready to collaborate in every activity.
+# Hack Club MUET SZAB Motivation
